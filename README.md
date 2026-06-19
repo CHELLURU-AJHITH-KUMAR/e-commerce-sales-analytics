@@ -129,7 +129,7 @@ dashboard/ecommerce-sales-dashboard.pbix
 Aspiring Data Analyst | Power BI Developer | SQL | Python
 
 - GitHub: https://github.com/CHELLURU-AJHITH-KUMAR
-- LinkedIn: www.linkedin.com/in/ajhith-kumar-chelluru-15185b332
+- LinkedIn: https://linkedin.com/in/ajhith-kumar-chelluru-15185b332
 
 ---
 
