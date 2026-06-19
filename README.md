@@ -1,8 +1,7 @@
 # 🛒 E-Commerce Sales Analytics Dashboard
 
 <p align="center">
-  <img src="e-commerce-dashboard-img.png
-" alt="Dashboard Overview" width="100%">
+  <img src="e-commerce-dashboard-img.png" width="100%">
 </p>
 
 ## 📌 Project Overview
@@ -93,33 +92,12 @@ e-commerce-sales-analytics/
 │
 ├── images/
 │   ├── dashboard-overview.png
-│   ├── sales-analysis.png
-│   ├── customer-analysis.png
-│
 ├── docs/
 │   └── project-summary.pdf
 │
 └── README.md
 ```
-
 ---
-
-## 📷 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](images/dashboard-overview.png)
-
-### Sales Analysis
-
-![Sales Analysis](images/sales-analysis.png)
-
-### Customer Insights
-
-![Customer Insights](images/customer-analysis.png)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
