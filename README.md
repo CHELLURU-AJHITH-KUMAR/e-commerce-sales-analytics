@@ -122,16 +122,6 @@ dashboard/ecommerce-sales-dashboard.pbix
 
 ---
 
-## 🌐 Live Dashboard
-
-> Add your Power BI Service "Publish to web" link here.
-
-```text
-https://app.powerbi.com/...
-```
-
----
-
 ## 👤 Author
 
 **Chelluru Ajhith Kumar**
