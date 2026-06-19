@@ -79,49 +79,6 @@ The dashboard transforms raw transactional data into actionable insights that su
 
 ---
 
-## 🗂️ Repository Structure
-
-```text
-e-commerce-sales-analytics/
-│
-├── dashboard/
-│   └── ecommerce-sales-dashboard.pbix
-│
-├── data/
-│   └── sample_dataset.csv
-│
-├── images/
-│   ├── dashboard-overview.png
-├── docs/
-│   └── project-summary.pdf
-│
-└── README.md
-```
----
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Power BI Desktop
-
-### Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/CHELLURU-AJHITH-KUMAR/e-commerce-sales-analytics.git
-```
-
-2. Open:
-
-```text
-dashboard/ecommerce-sales-dashboard.pbix
-```
-
-3. Refresh the data source if required.
-
----
-
 ## 👤 Author
 
 **Chelluru Ajhith Kumar**
