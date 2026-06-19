@@ -1,5 +1,5 @@
 ## Dashboard Preview
 
-![Overview](images/overview.png)
+![Overview](e-commerce-dashboard-img.png)
 
-![Sales Analysis](images/sales-analysis.png)
+
