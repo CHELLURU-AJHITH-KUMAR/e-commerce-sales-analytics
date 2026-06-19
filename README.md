@@ -1,2 +1,5 @@
-# e-commerce-sales-analytics
-Interactive Power BI dashboard analyzing sales performance, customer behavior, and profitability trends.
+## Dashboard Preview
+
+![Overview](images/overview.png)
+
+![Sales Analysis](images/sales-analysis.png)
